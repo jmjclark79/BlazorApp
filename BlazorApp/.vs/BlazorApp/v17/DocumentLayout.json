@@ -7,8 +7,32 @@
       "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|c:\\users\\starw\\onedrive\\desktop\\blazor\\blazorapp\\blazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|c:\\users\\starw\\onedrive\\desktop\\blazor\\blazorapp\\blazorapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|c:\\users\\starw\\onedrive\\desktop\\blazor\\blazorapp\\blazorapp\\components\\layout\\todoitemform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\layout\\todoitemform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|c:\\users\\starw\\onedrive\\desktop\\blazor\\blazorapp\\blazorapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|c:\\users\\starw\\onedrive\\desktop\\blazor\\blazorapp\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|c:\\users\\starw\\onedrive\\desktop\\blazor\\blazorapp\\blazorapp\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|c:\\users\\starw\\onedrive\\desktop\\blazor\\blazorapp\\blazorapp\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|c:\\users\\starw\\onedrive\\desktop\\blazor\\blazorapp\\blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAB035A3-9E7B-4698-B699-5B5A2499E910}|BlazorApp\\BlazorApp.csproj|solutionrelative:blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +42,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "BlazorApp\\Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "DocumentIndex": 2,
+              "Title": "TodoItemForm.razor",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Components\\Layout\\TodoItemForm.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Layout\\TodoItemForm.razor",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Components\\Layout\\TodoItemForm.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Layout\\TodoItemForm.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T05:06:38.306Z"
+              "WhenOpened": "2024-05-22T03:38:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Services\\TodoService.cs",
+              "RelativeToolTip": "BlazorApp\\Services\\TodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:24:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Services\\ITodoService.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Services\\ITodoService.cs",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Services\\ITodoService.cs",
+              "RelativeToolTip": "BlazorApp\\Services\\ITodoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:22:08.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BlazorApp\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\wwwroot\\app.css",
+              "RelativeToolTip": "BlazorApp\\wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-22T03:18:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\TodoItem.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\TodoItem.cs",
+              "RelativeToolTip": "BlazorApp\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:04:19.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Program.cs",
+              "RelativeToolTip": "BlazorApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:01:30.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T03:00:15.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +143,7 @@
               "RelativeDocumentMoniker": "BlazorApp\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\starw\\OneDrive\\Desktop\\Blazor\\BlazorApp\\BlazorApp\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "BlazorApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-10T05:06:34.73Z",
               "EditorCaption": ""
